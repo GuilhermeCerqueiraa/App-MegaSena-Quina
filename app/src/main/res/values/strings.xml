@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GanheiNaMega</string>
+    <string name="title">MEGA SENA</string>
+    <string name="number_hint">Quantidade de números (6 a 15)</string>
+    <string name="number_hint_quina">Quantidade de números (5 a 15)</string>
+    <string name="numer_generator">Gerar números</string>
+    <string name="txt_quina">mudar para quina:</string>
+    <string name="txt_mega">mudar para mega:</string>
+</resources>
